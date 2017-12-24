@@ -1,5 +1,5 @@
 # Projects
 Here are some projects that I made this year
 
-* Compiler
-* Processor
+* (Compiler)[https://github.com/maxforasteiro/compilador]
+* (Processor)[https://github.com/maxforasteiro/processador]
